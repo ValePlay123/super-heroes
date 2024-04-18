@@ -1,0 +1,141 @@
+.cont-1{
+    background-color: #1CD1B0;
+    width: 1040px;
+    height: 38px;
+    padding: 1px;
+    padding-bottom: 3px;
+}
+h1{
+    color: black;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 46.88px;
+    text-align: left;
+}
+.cont-2{
+    background-color:#00669F;
+    width: 1004px;
+    height: 101px;
+    top: 38px;
+    padding: 1%;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.cont-3{
+    position: relative;
+    width: 100%;
+    height: 808px;  
+}
+.cont-3-1{
+    width: 300px;
+    height: 530px;
+    position: relative;
+    top:120px;
+    left: 33px;
+    background-color: #F3F3F3;
+    border-radius: 10% 10% 0 0;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.cont-3-2{
+    position: relative;
+    left: 369px;
+    bottom: 412px;
+    background-color: #F3F3F3;
+    width: 300px;
+    height: 530px;
+    border-radius: 10% 10% 0 0;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.cont-3-3{
+    position: relative;
+    left: 703px;
+    bottom: 940px;
+    background-color: #F3F3F3;
+    width: 300px;
+    height: 530px;
+    border-radius: 10% 10% 0 0;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.fondo-bat{
+    position: relative;
+    width: 302px;
+    height: 194px;
+    right: 1px;
+    border-radius: 10% 10% 0 0;
+    bottom: 35px;
+}
+.corazon{
+    position: relative;
+    width: 30px;
+    height: 26.25px;
+    top: 14px;
+    left: 20px;
+    z-index: 2;
+}
+.redondo-bat{
+    width: 120px;
+    height: 118px;
+    border-radius: 100px;
+    position: relative;
+    left: 90px;
+    bottom: 71px;
+}
+h2{
+    position: relative;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 200;
+    line-height: 35.16px;
+    bottom: 81px;
+    left: 78px;
+}
+.parrafo{
+    position: relative;
+    width: 267px;
+    height: 113px;
+    bottom: 90px;
+    left: 18px;
+}
+p{
+    position: relative;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+    text-align: left;
+}
+.rectangulo p{
+    background-color: #00669F;
+    width: 128.78px;
+    height: 48.52px;
+    color: #F3F3F3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    size: 15px;
+    line-height: 17.58px;
+    position: relative;
+    bottom: 99px;
+    left: 85px;
+}
+
+.pie{
+    width: 1046px;
+    height: 51px;
+    position: relative;
+    background-color: #00669F;
+    bottom: 10px;
+    color:#FFF9F9;
+    font-family: Roboto;
+    font-size: 16px;   
+    font-weight: 400;
+    line-height: 18.75px;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.final{
+    margin-left: 60px;
+}
